@@ -1,0 +1,86 @@
+.navBar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("img/img8.jpg");
+    background-size: 500px 500px;
+}
+
+.navTitle{
+    color: #E55D33;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    -webkit-text-stroke: 0.5px whitesmoke; /* width and color */
+    margin: 0;
+}
+
+.navsub{
+    text-align: center;
+    color: #E55D33;
+}
+
+.navLinks{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #E55D33;
+    font-size: 20px;
+}
+
+body{
+    background-color: #B4B4B4;
+}
+.im7 {
+    max-width: 100%;
+    object-fit: cover;
+    width: 300px;
+  }
+  .im4 {
+    max-width: 100%;
+    object-fit: cover;
+    width: 300px;
+  }
+  .im5 {
+    max-width: 100%;
+    object-fit: cover;
+    width: 300px;
+  }
+
+    .firstsection {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+    .secondsection {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+
+    .imand {
+    max-width: 100%;
+    object-fit: cover;
+    width: 100px;
+
+  }
+  .imios {
+    max-width: 100%;
+    object-fit: cover;
+    width: 100px;
+
+  }
+ 
+  .navLinks2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.5px;
+  }
